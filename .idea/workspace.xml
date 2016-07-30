@@ -23,7 +23,7 @@
       <file leaf-file-name="testing!" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/essensa_natural/testing!">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0317757">
               <folding />
             </state>
           </provider>
@@ -35,6 +35,13 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/essensa_natural/testing!" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -221,7 +228,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/essensa_natural/testing!">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0317757">
           <folding />
         </state>
       </provider>

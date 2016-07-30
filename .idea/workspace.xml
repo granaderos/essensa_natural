@@ -26,7 +26,7 @@
       <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/essensa_natural/pages/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="12" selection-start="187" selection-end="187" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="585">
+            <state line="9" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -138,6 +138,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../E2PsSMS-master" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -229,7 +230,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/essensa_natural/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="187" selection-end="187" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="585">
+        <state line="9" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.26153848" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>

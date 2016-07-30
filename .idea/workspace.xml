@@ -32,10 +32,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="how-to-be-a-member.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="how-to-be-a-member.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/essensa_natural/pages/how-to-be-a-member.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="635" selection-end="635" vertical-scroll-proportion="0.61025643" vertical-offset="0" max-vertical-offset="585">
+            <state line="7" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="how-to-order.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/essensa_natural/pages/how-to-order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="16" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.5183752" vertical-offset="55" max-vertical-offset="952">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="how-to-order.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essensa_natural/css/how-to-order.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="16" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseConnector.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essensa_natural/php/controller/DatabaseConnector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="28" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerFunctions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essensa_natural/php/controller/ServerFunctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -63,6 +99,10 @@
         <option value="$PROJECT_DIR$/pages/home.php" />
         <option value="$PROJECT_DIR$/essensa_natural/pages/home.php" />
         <option value="$PROJECT_DIR$/essensa_natural/pages/how-to-be-a-member.php" />
+        <option value="$PROJECT_DIR$/essensa_natural/php/controller/DatabaseConnector.php" />
+        <option value="$PROJECT_DIR$/essensa_natural/php/controller/ServerFunctions.php" />
+        <option value="$PROJECT_DIR$/essensa_natural/css/how-to-order.css" />
+        <option value="$PROJECT_DIR$/essensa_natural/pages/how-to-order.php" />
       </list>
     </option>
   </component>
@@ -145,7 +185,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_naturale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_naturale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_natural" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_naturale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_naturale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essensa_natural" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,7 +337,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/essensa_natural/pages/how-to-be-a-member.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="635" selection-end="635" vertical-scroll-proportion="0.61025643" vertical-offset="0" max-vertical-offset="585">
+        <state line="7" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essensa_natural/php/controller/ServerFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essensa_natural/php/controller/DatabaseConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="28" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essensa_natural/css/how-to-order.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essensa_natural/pages/how-to-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.5183752" vertical-offset="55" max-vertical-offset="952">
           <folding />
         </state>
       </provider>

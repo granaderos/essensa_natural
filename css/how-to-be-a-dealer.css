@@ -1,0 +1,53 @@
+#imgDealer{
+    /*width:50%;*/
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#imgPackage{
+    /*width:50%;*/
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 20px;*/
+
+}
+
+
+#mainContainer{
+    /*width: 59%;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wordsWhy h2, h3, h4{
+    /*width: 100%;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*margin-top: 20px;*/
+;
+}
+
+
+#wordsWhy ol li{
+    text-justify: inter-word;
+    /*width: 100%;*/
+    /*margin-left: 50px;*/
+    /*margin-bottom: 10px;*/
+
+}
+
+#wordsWhy{
+
+    /*width: 100%;*/
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+#wordPackage{
+    /*width: 100%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+}
+

@@ -1,0 +1,23 @@
+body {
+    /*width: 1000px;*/
+}
+
+#homeMainContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#advocacySection{
+    margin-bottom: 50px ;
+    border-style: solid;
+    /*width: 600px !important;*/
+}
+
+table {
+    /*width: 1028px;*/
+}
+
+#advocacySection #advocacyImages .slideimg {
+    height: 494px;
+}

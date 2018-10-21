@@ -1,0 +1,18 @@
+#loginMainContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#tblContainers {
+    margin: auto;
+}
+
+#registerDiv table tr td {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+input[type="text"], input[type="password"] {
+    font-style: italic;
+}

@@ -1,0 +1,48 @@
+#aboutMainContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#companyProfileSection{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+#companyProfileSection table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#companyProfileSection li {
+    list-style-type: none;
+}
+
+#companyProfileSection table tr td{
+    width: 400px;
+}
+
+#companyProfileSection h4{
+    padding-left: 60px;
+    padding-right: 60px;;
+}
+
+#awardsSection{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+#awardContent {
+    text-align: center;
+}
+
+#awardsSection img{
+    width: 600px;
+    height: 450px;
+    margin: 20px;
+}

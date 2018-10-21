@@ -1,0 +1,53 @@
+#howToOrderMainContainerDiv {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#packages {
+    margin: auto;
+}
+
+#packages img {
+    width: 100%;
+    height: 100%;
+}
+
+#packages > div > div {
+    border: 6px solid green;
+    height: 350px;
+    padding: 0;
+}
+
+.hiddenInfo {
+    display: none;
+    height: inherit;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding: 10px;
+    background: lightgreen;
+    opacity: .7;
+    color: #000000;
+    font-weight: bold;
+    overflow: auto;
+}
+
+.infoValue {
+    width: inherit;
+    margin-left: 3em;
+}
+
+.btnAddToCart {
+    display: none;
+    float: right;
+    right: 0;
+    top: 0;
+    position: absolute;
+    z-index: 1;
+}
+
+#addToCartDiv {
+    display: none;
+}

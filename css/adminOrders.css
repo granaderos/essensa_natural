@@ -1,0 +1,14 @@
+#adminMainContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+a {
+    cursor: pointer;
+}
+
+#adminSubMenuDiv ul li {
+    display: inline-block;
+    list-style-type: none;
+}

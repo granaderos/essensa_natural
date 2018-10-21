@@ -1,0 +1,18 @@
+#mainAdminProductContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#btnGroupProd {
+    /*width: 1000px;*/
+}
+
+
+a {
+    cursor: pointer !important;
+}
+
+#editProductDiv {
+    display: none;
+}

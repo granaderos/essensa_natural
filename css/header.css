@@ -1,0 +1,103 @@
+#bannerSection {
+    height: 220px;
+    width: 100%;
+    left: 0 !important;
+    top: 0 !important;
+    /*margin-left: 292px;*/
+    background-image: url(../files/systemImages/advocacies/AllNatural.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logoDiv {
+    background-image: url(../files/systemImages/advocacies/logoSample.JPG);
+    background-position: right;
+    background-repeat: no-repeat;
+    width: inherit;
+    height: 200px;
+    margin-left: -15px;
+}
+
+#navSection {
+    /*top: 0px;*/
+    /*position: fixed;*/
+    /*left: 550px;*/
+    /*width: 220px;*/
+    /*z-index: 100;*/
+    /*height: 100%;*/
+}
+
+nav {
+    tap-highlight-color: rgba(174, 7, 15, 0.79);
+}
+
+nav a {
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    nav {
+        font-size: 20px !important;
+    }
+    div {
+        font-size: 20px !important;
+    }
+}
+
+#liLast:hover {
+    background: #32cd32 !important;
+}
+
+#navSection ul li {
+    list-style-type: none;
+    padding: 10px;
+    /*background: #247C30;*/
+    background-color: #32cd32;
+    width: 220px;
+    margin-left: -55px;
+    border-left: 5px #32cd32;
+}
+
+#navSection ul li:hover {
+    background: #247C55;
+}
+
+#navSection ul li a, #ulNavMD li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.activeLi {
+    background: white!important;
+}
+
+.activeA {
+    color: #247C30 !important;
+    background: white;
+    font-weight: bolder;
+}
+
+.aboveMenu {
+    border-bottom-right-radius: 15px !important;
+}
+
+.bottomMenu {
+    -moz-border-top-right-radius: 90px !important;
+    -webkit-border-top-right-radius: 100px !important;
+    border-top-right-radius: 90px !important;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+#ulNavMD, nav {
+    background: #32cd32;
+    color: #ffffff;
+    width: 100%;
+}
+#ulNavMD li {
+    display: inline-block;
+    list-style-type: none;
+}

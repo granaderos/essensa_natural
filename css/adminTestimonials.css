@@ -1,0 +1,19 @@
+#mainAdminTestimonialsContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#btnGroupTestimonials{
+    /*width: 1000px;*/
+}
+
+a {
+    cursor: pointer !important;
+    text-decoration: none !important;
+}
+
+#tblTestimoniesListAdmin img {
+    height: 200px;
+    width: 200px;
+}

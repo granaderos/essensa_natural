@@ -1,0 +1,20 @@
+#testimoniesMainContainerDiv {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#testimonyContainer{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#testimonyContainer img {
+    height: 200px;
+    /*width: 200px;*/
+}
+
+#testimonyContainer table td {
+    padding: 10px;
+    text-align: center;
+}

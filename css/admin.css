@@ -1,0 +1,31 @@
+#adminMainContainer {
+    /*left: 290px;*/
+    /*position: absolute;*/
+    /*width: 1028px;*/
+}
+
+#editPackageDiv {
+    display: none;
+}
+
+#editPackageDiv table tr td {
+    padding-top: 15px;
+}
+
+#editPackageDiv textarea, #editPackageDiv input[type="text"] {
+    width: 300px;
+}
+#editPackageDiv textarea {
+    height: 200px;
+    resize: none;
+}
+
+a {
+    cursor: pointer;
+}
+
+.adminPackagePhoto {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}

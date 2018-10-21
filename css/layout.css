@@ -1,0 +1,64 @@
+#bannerSection{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    background-color: blue;
+}
+
+#navSection {
+    text-align: center;
+}
+
+#navSection a:hover{
+    text-decoration: none;
+}
+
+#aMyAccount {
+    color: white;
+}
+
+/*body{
+    background-color: #add8e6;
+    min-height: 1500px;
+}
+#bannerSection{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    background-color: blue;
+}
+
+#navSection{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+}
+#navSection li{
+    display: inline-block;
+    background-color: #247C30;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    font-family: times-new-roman;
+    font-size: 16px;
+    color: white;
+    border-right: 1px solid #000000;
+    border-left: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: -4px;
+}
+
+#navSection li a{
+    text-align: center;
+}
+
+#navSection li:hover{
+    background-color: #ffffff;
+    color: #247C30;
+}
+
